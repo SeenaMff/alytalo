@@ -1,0 +1,2 @@
+# alytalo
+Ohjelmoinnin jatkokurssin harjoitus
